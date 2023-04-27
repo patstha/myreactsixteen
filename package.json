@@ -2,6 +2,7 @@
   "name": "adomm",
   "version": "1.15.0",
   "private": true,
+  "homepage": "http://patstha.github.io/myreactsixteen",
   "dependencies": {
     "@fluentui/react": "^7.155.3",
     "@fluentui/react-date-time": "^8.0.26",
