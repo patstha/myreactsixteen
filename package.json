@@ -33,7 +33,7 @@
     "linq": "^3.2.3",
     "lodash.escaperegexp": "^4.1.2",
     "msal": "^1.4.4",
-    "office-ui-fabric-react": "^7.177.3",
+    "office-ui-fabric-react": "^7.204.0",
     "popper.js": "^1.16.1",
     "react": "^16.8.6",
     "react-aad-msal": "^2.3.5",
