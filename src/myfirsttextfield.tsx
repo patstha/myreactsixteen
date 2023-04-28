@@ -9,6 +9,7 @@ export const MyFirstTextField: React.FunctionComponent = () => {
                 label='my label'
                 title="my title"
                 description="my description"
+                errorMessage="this is my error message"
                 placeholder="my placeholder"
             >
             </TextField>
