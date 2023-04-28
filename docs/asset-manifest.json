@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/myreactsixteen/static/js/main.ab4e1a92.js",
+    "main.js": "/myreactsixteen/static/js/main.f374ddb6.js",
     "index.html": "/myreactsixteen/index.html",
-    "main.ab4e1a92.js.map": "/myreactsixteen/static/js/main.ab4e1a92.js.map"
+    "main.f374ddb6.js.map": "/myreactsixteen/static/js/main.f374ddb6.js.map"
   },
   "entrypoints": [
-    "static/js/main.ab4e1a92.js"
+    "static/js/main.f374ddb6.js"
   ]
 }
