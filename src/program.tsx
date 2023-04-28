@@ -5,6 +5,7 @@ export const Program: React.FunctionComponent = () => {
         <>
             <h1>Hello, Pratikchhya!</h1>
             <MyFirstTextField></MyFirstTextField>
+            <img src="assets/loading.svg" alt="this is just for testing" />
         </>
     );
 }
