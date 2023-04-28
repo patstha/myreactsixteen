@@ -1,5 +1,5 @@
 {
-  "name": "adomm",
+  "name": "myreactsixteen",
   "version": "1.15.0",
   "private": true,
   "homepage": "http://patstha.github.io/myreactsixteen",
@@ -50,7 +50,6 @@
     "set-value": "^4.0.1",
     "source-map-resolve": "^0.6.0",
     "toastr": "^2.1.4",
-    "typescript": "3.9.7",
     "vega": "^5.22.1",
     "vega-embed": "6.20.2",
     "vega-lite": "5.0.0",
